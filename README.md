@@ -1,2 +1,2 @@
 # custom-order-crud-manager
-VITYARTHY PROGET
+VITYARTHY PROJECT
